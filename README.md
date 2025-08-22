@@ -2,7 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-
+# Name: Sivabalan M
+# Reg no: 212224230269
 # AIM:
 To practice Linux Commands and Shell Scripting
 
